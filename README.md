@@ -23,20 +23,14 @@ In a world of data breaches and cloud leaks, CLIVASH takes a radical approach: *
 ---
 
 ### 📸 Screenshots
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/418140ce-5b7c-4bb1-96ba-fddfcebb87bb" height="450" alt="Lock Screen" />
-  &nbsp;
-  <img src="https://github.com/user-attachments/assets/c94892b1-0ba0-441b-ab61-eb9764a963ce" height="450" alt="Security Audit" />
-  &nbsp;
-  <img src="https://github.com/user-attachments/assets/9391d481-b763-46a4-9b6d-267f63c5cacf" height="450" alt="Hidden Card" />
-</p>
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/e5d6d97a-21c2-4ddd-9330-09706dfcc1fa" height="450" alt="Revealed Card" />
-  &nbsp;
-  <img src="https://github.com/user-attachments/assets/9c73bfbf-d0d4-4c52-b35c-29407e05927b" height="450" alt="Add Type Menu" />
-  &nbsp;
-  <img src="https://github.com/user-attachments/assets/90b84718-4675-4113-92f6-857f9ffbcebc" height="450" alt="Menu Options" />
-</p>
+
+| **Lock Screen** | **Security Audit** | **Hidden Card** |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/9dd85005-d318-47da-a4e8-b02f70c91c1e" height="400"> | <img src="https://github.com/user-attachments/assets/085670e6-254b-4ae3-b31b-39c71ac253fc" height="400"> | <img src="https://github.com/user-attachments/assets/3964b79c-7c8e-47b4-aada-6dbb38304b21" height="400"> |
+
+| **Revealed Card** | **Add Menu** | **Settings** |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/356bbd3e-7d31-4bf5-a8b2-9501c74aefb5" height="400"> | <img src="https://github.com/user-attachments/assets/39758cef-4cb8-4d85-9371-80b08238f069" height="400"> | <img src="https://github.com/user-attachments/assets/92e65095-93e4-442b-86b5-d9fddd54e1f3" height="400"> |
 
 ---
 
