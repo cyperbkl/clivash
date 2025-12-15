@@ -1,4 +1,4 @@
-# CLIVASH 🛡️
+# CLIVASH SECURE-STORAGE VAULT🛡️
 **Your Offline Financial Fortress.**
 
 CLIVASH is a high-security Android vault designed to store your Credit Cards, Debit Cards, and Government IDs locally on your device.
